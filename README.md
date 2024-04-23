@@ -8,4 +8,4 @@ These projects are very helpful in understanding python at its core level.
 <h2>Bank Deposit/Withdraw Calculator</h2>
 <h2>madLibsGenerator.py</h2>
 <h2>pig.py</h2>
-<h2>plagiarism_detector.py</h2>
+<p>plagiarism_detector.py</p>
