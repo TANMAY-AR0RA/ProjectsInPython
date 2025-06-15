@@ -1,7 +1,5 @@
-# miniProjects
+# Projects:
 
-I've made these python projects to boost my python language skills. As its always said "learning by doing".
-These projects are very helpful in understanding python at its core level.
 <h2>MathChallenge.py</h2>
 <h2>Pokemon_api.py</h2>
 <h2>Simple Bank Calculator.py</h2>
